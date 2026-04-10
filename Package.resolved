@@ -1,13 +1,13 @@
 {
-  "originHash" : "66c2145ea38947dbc210fffaaf2cf603fa3279ca2b354cd3a855fdd71ab1a1ed",
+  "originHash" : "ee488e4fbb8a4e697b6acfd99b019daa7812e9658d8325a53762c7b0a837beaf",
   "pins" : [
     {
       "identity" : "conduit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/christopherkarani/Conduit",
+      "location" : "https://github.com/dominicnieto/Conduit",
       "state" : {
-        "revision" : "61a1b70ae3cdcba7d186b5165d8a946e4a615191",
-        "version" : "0.3.10"
+        "branch" : "production",
+        "revision" : "1cd9c167b3fee5f0a5b87ad0b2f63bbbba1fb992"
       }
     },
     {
@@ -125,6 +125,15 @@
       "state" : {
         "revision" : "b31565862a8f39866af50bc6676160d8dda7de35",
         "version" : "2.96.0"
+      }
+    },
+    {
+      "identity" : "swift-numerics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-numerics",
+      "state" : {
+        "revision" : "0c0290ff6b24942dadb83a929ffaaa1481df04a2",
+        "version" : "1.1.1"
       }
     },
     {
