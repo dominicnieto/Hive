@@ -1,10 +1,10 @@
 {
-  "originHash" : "ee488e4fbb8a4e697b6acfd99b019daa7812e9658d8325a53762c7b0a837beaf",
+  "originHash" : "3d3500816d11a9342ebe1166f78a58859cdef46fb48a9ee3587076767f959d6c",
   "pins" : [
     {
       "identity" : "conduit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/dominicnieto/Conduit",
+      "location" : "https://github.com/dominicnieto/Conduit.git",
       "state" : {
         "branch" : "production",
         "revision" : "1cd9c167b3fee5f0a5b87ad0b2f63bbbba1fb992"
@@ -31,10 +31,10 @@
     {
       "identity" : "metalanns",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/christopherkarani/MetalANNS.git",
+      "location" : "https://github.com/dominicnieto/MetalANNS.git",
       "state" : {
-        "revision" : "ea4586fff3f89fd655529927688aa910a85ed641",
-        "version" : "0.1.3"
+        "branch" : "production",
+        "revision" : "ea4586fff3f89fd655529927688aa910a85ed641"
       }
     },
     {
@@ -175,10 +175,10 @@
     {
       "identity" : "wax",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/christopherkarani/Wax.git",
+      "location" : "https://github.com/dominicnieto/Wax.git",
       "state" : {
-        "revision" : "08ee2ecb63ea0429d57f7191091689ed21f32831",
-        "version" : "0.1.19"
+        "branch" : "production",
+        "revision" : "58e35f4bfff14da67ad04c46286e265d471d556c"
       }
     },
     {
